@@ -1,4 +1,3 @@
-Here is the **README.md** text content for your project:
 
 ---
 
