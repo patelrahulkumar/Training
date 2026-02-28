@@ -1,14 +1,13 @@
-Here is your **README.md** file in the same style as your Chessboard project 👇
 
 ---
 
-# 🔢 TaskPY200_T6: Find the Smallest Number With Digit Constraints
+#  TaskPY200_T6: Find the Smallest Number With Digit Constraints
 
 This is a simple Python program that finds the smallest number within a given range that satisfies specific digit-based conditions.
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 The program:
 
@@ -23,7 +22,7 @@ The program:
 
 ---
 
-## 🧠 Conditions Applied
+##  Conditions Applied
 
 For each number `x` in range `1..N`:
 
@@ -34,7 +33,7 @@ For each number `x` in range `1..N`:
 
 ---
 
-## 💻 How It Works
+##  How It Works
 
 * Loop runs from `1` to `N`
 * Each number is converted into a string for easy digit checking
@@ -45,13 +44,13 @@ For each number `x` in range `1..N`:
 
 ---
 
-## ▶️ Here to Run
+## ▶ Here to Run
 
 5. Enter a value for `N`
 
 ---
 
-## 📂 Example Output
+##  Example Output
 
 ### Input:
 
@@ -73,7 +72,7 @@ Enter N: 500
 
 ---
 
-## 📚 Concepts Used
+##  Concepts Used
 
 * String conversion of integers
 * Looping (`for` loop)
@@ -93,7 +92,7 @@ Works efficiently for small to moderate values of `N`.
 
 ---
 
-## 🎯 Learning Purpose
+##  Learning Purpose
 
 This project helps beginners understand:
 
@@ -104,6 +103,6 @@ This project helps beginners understand:
 
 ---
 
-## 📜 License
+##  License
 
 Free to use for educational purposes.

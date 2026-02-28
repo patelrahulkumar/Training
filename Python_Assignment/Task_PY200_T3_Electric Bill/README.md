@@ -1,10 +1,10 @@
-# ⚡ Electricity Bill Calculator
+#  Electricity Bill Calculator
 
 This is a simple Python program that calculates the total electricity bill based on the number of units consumed. The program follows a slab-based billing system and adds a fixed charge.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Takes electricity units as input from the user
 - Applies slab-wise billing calculation
@@ -13,7 +13,7 @@ This is a simple Python program that calculates the total electricity bill based
 
 ---
 
-## 🧮 Billing Slabs
+##  Billing Slabs
 
 | Units Consumed | Rate per Unit |
 |---------------|--------------|
@@ -22,11 +22,11 @@ This is a simple Python program that calculates the total electricity bill based
 | 201 – 500     | ₹5 per unit  |
 | Above 500     | ₹8 per unit  |
 
-✅ Fixed Charge: ₹50 (if units > 0)
+ Fixed Charge: ₹50 (if units > 0)
 
 ---
 
-## 💻 How It Works
+##  How It Works
 
 1. User enters the number of electricity units.
 2. Program checks which slab the units fall into.
@@ -36,7 +36,7 @@ This is a simple Python program that calculates the total electricity bill based
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Python (version 3.x recommended).
 2. Save the file as `electricity_bill.py`.
@@ -51,7 +51,7 @@ python electricity_bill.py
 
 ---
 
-## 📂 Example Output
+##  Example Output
 
 ```
 Enter electricity units: 250
@@ -60,7 +60,7 @@ Total Electricity Bill = ₹ 1050
 
 ---
 
-## 🧾 Formula Logic Used
+##  Formula Logic Used
 
 ```
 0–100 units      → units × 2
@@ -72,7 +72,7 @@ Above 500 units  → (100 × 2) + (100 × 3) + (300 × 5) + (remaining × 8)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Created as a beginner-friendly Python project to understand:
 - Conditional statements (`if-elif-else`)
@@ -81,6 +81,6 @@ Created as a beginner-friendly Python project to understand:
 
 ---
 
-## 📜 License
+##  License
 
 This project is free to use for educational purposes.
